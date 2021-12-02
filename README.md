@@ -1,7 +1,7 @@
-# wsk-use - Switch OpenWhisk configuration
+# wsk-use
 
-`wsk-use` allows you to switch OpenWhisk configuration depending on a list of
-previously defined contexts.
+`wsk-use` allows you to update your OpenWhisk configuration depending on a list
+of previously defined contexts.
 
 ## Install
 
